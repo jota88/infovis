@@ -8,3 +8,7 @@
 
 ### Mom W33
 > [Make Over Monday W33 - Flourish](https://jota88.github.io/infovis/MoMW33.html)
+
+
+### Proyecto Final
+> [Estadísticas Colonos de Catan](https://jota88.github.io/infovis/Proyecto.html)
